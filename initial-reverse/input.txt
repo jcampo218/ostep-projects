@@ -1,0 +1,10 @@
+azor: heliodpter
+dimir: nazgul
+rakd: asmoranomardicadistaniculdacar
+gruul: kibo || omnath
+seles: dromoka the eternal
+orzh: erriette
+izzet: arjun
+golg: shelob
+boros: koll
+simic: ezuri
